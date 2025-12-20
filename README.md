@@ -37,18 +37,6 @@ Backend
 - APScheduler (background jobs)
 - Firebase (data storage)
 - SMTP (email notifications)
-
-## 🖼️ Screenshots & Demo
-
-Replace the placeholders in `public/screenshots/` with real screenshots or GIFs. The repo already contains two SVG placeholders:
-
-- `public/screenshots/screenshot-1.svg` — product list / product card
-- `public/screenshots/screenshot-2.svg` — price alert / notification example
-
-![Screenshot 1](public/screenshots/screenshot-1.svg)
-
-![Screenshot 2](public/screenshots/screenshot-2.svg)
-
 ## ⚙️ Installation & Setup
 
 ### Prerequisites
