@@ -92,21 +92,6 @@ Open two terminals:
 - Terminal A: backend (see backend steps)
 - Terminal B: frontend (`npm run dev`)
 
-## 🔐 Security Notes
-
-- Scraping Amazon should be used responsibly and for educational purposes only.
-- Never commit SMTP or Firebase credentials to the repo.
-- Add `backend/serviceAccountKey.json` and `.env` to `.gitignore` if storing locally.
-- Use secrets managers in production (GitHub Secrets, Azure Key Vault, AWS Secrets Manager).
-
-## 📌 Future Improvements
-
-- Mobile-friendly UI
-- WhatsApp / Telegram notifications
-- Price history graph per product
-- Multi-site tracking (Flipkart, etc.)
-- Smarter scraping (rotating user agents, proxies)
-
 ## Helpful Commands
 
 - Install frontend deps: `npm install`
